@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XYDebugger</string>
+    <string name="module_subtitle">LSPosed 模块 · 小猿口算PK 判题</string>
+    <string name="module_usage">使用提示：\n1. 在 LSPosed 中启用本模块，勾选作用域小猿口算\n2. 强制停止小猿口算并重新打开\n3. 小猿进程内会显示控制悬浮窗：\n   · 全对模式：任意识别都判对\n   · 自动答题：定时画笔画触发识别（延迟可调）</string>
+    <string name="xposed_description">小猿口算(com.fenbi.android.leo) 口算PK 判题全对 + 自动答题</string>
+    <string name="settings_conn_hint">控制面板将注入小猿进程，打开小猿后可见悬浮窗</string>
+</resources>
